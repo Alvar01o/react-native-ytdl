@@ -1,5 +1,5 @@
 {
-  "name": "react-native-ytdl",
+  "name": "react-native-ytdl-core",
   "version": "4.8.3",
   "description": "YouTube video and audio stream extractor for react native.",
   "main": "index.js",
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ytdl-js/react-native-ytdl.git"
+    "url": "git+https://github.com/Alvar01o/react-native-ytdl.git"
   },
   "keywords": [
     "react",
@@ -35,7 +35,7 @@
   "author": "Abel Tesfaye",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ytdl-js/react-native-ytdl/issues"
+    "url": "https://github.com/Alvar01o/react-native-ytdl/issues"
   },
-  "homepage": "https://github.com/ytdl-js/react-native-ytdl#readme"
+  "homepage": "https://github.com/Alvar01o/react-native-ytdl/blob/master/README.md"
 }
