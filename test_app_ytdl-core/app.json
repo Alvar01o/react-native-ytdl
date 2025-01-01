@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "test_app_ytdl-core",
+    "slug": "test_app_ytdl-core",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ]
+  }
+}

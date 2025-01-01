@@ -26,7 +26,7 @@ import {
   ReloadInstructions,
 } from 'react-native/Libraries/NewAppScreen';
 
-import ytdl from 'react-native-ytdl';
+import ytdl from 'react-native-ytdl-core';
 import RNFetchBlob from 'rn-fetch-blob';
 
 const runTests = async () => {

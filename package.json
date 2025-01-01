@@ -4,6 +4,7 @@
   "description": "YouTube video and audio stream extractor for react native.",
   "main": "index.js",
   "dependencies": {
+    "@babel/standalone": "^7.26.4",
     "querystring": "^0.2.1",
     "url": "~0.10.1",
     "whatwg-url-without-unicode": "^8.0.0-3"
