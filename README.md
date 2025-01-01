@@ -1,4 +1,4 @@
-# react-native-ytdl
+# react-native-ytdl-core
 
 YouTube video and audio stream extractor for react native.
 
@@ -7,13 +7,13 @@ This module is a port of [ytdl-core](https://github.com/fent/node-ytdl-core). Al
 # Installation
 
 ```
-npm install react-native-ytdl
+npm install react-native-ytdl-core
 ```
 
 # Usage
 
 ```js
-import ytdl from "react-native-ytdl"
+import ytdl from "react-native-ytdl-core"
 
 const youtubeURL = 'http://www.youtube.com/watch?v=04GiqLjRO3A';
 const urls = await ytdl(youtubeURL, { quality: 'highestaudio' });
@@ -145,15 +145,15 @@ For the sake of fast development time, It is better to debug on node than it is 
 # Install
 
 ```bash
-npm install react-native-ytdl@latest
+npm install react-native-ytdl-core@latest
 ```
 
 Or for Yarn users:
 ```bash
-yarn add react-native-ytdl@latest
+yarn add react-native-ytdl-core@latest
 ```
 
-Make sure you're installing the latest version of react-native-ytdl to keep up with the latest fixes.
+Make sure you're installing the latest version of react-native-ytdl-core to keep up with the latest fixes.
 
 # Related Projects
 
