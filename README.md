@@ -1,4 +1,4 @@
-# react-native-ytdl
+# react-native-ytdl - in update progress [NOT WORKIGN YET]
 
 YouTube video and audio stream extractor for react native.
 
