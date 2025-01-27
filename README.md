@@ -1,4 +1,4 @@
-# react-native-ytdl-core
+# react-native-ytdl-core [UNDER DEVELOPMENT]
 
 YouTube video and audio stream extractor for react native.
 
